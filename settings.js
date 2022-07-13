@@ -61,16 +61,16 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
+global.owner = ['94741621237']
 global.ownertag = '94741621237' //ur tag number
 global.botname = '©𝙼𝚁:|𝚃 𝙷 𝚄 𝚂 𝙸🙇‍♂️ Bot MD V4' //ur bot name
 global.linkz = "wa.me/+94711266526" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.reactmoji = "🙈" //ur menu react emoji
+global.themeemoji = "💣" //ur theme emoji
+global.packname = "©𝙼𝚁:|𝚃 𝙷 𝚄 𝚂 𝙸🙇‍♂️ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "©𝙼𝚁:|𝚃 𝙷 𝚄 𝚂 𝙸🙇‍♂️" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
